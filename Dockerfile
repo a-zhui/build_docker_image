@@ -1,2 +1,2 @@
-FROM r8.im/orpatashnik/styleclip@sha256:7af9a66f36f97fee2fece7dcc927551a951f0022cbdd23747b9212f23fc17021
+FROM r8.im/yuval-alaluf/sam@sha256:9222a21c181b707209ef12b5e0d7e94c994b58f01c7b2fec075d2e892362f13c
 MAINTAINER bocai <320542616@qq.com>
