@@ -1,2 +1,2 @@
-FROM r8.im/stability-ai/stable-diffusion@sha256:8abccf52e7cba9f6e82317253f4a3549082e966db5584e92c808ece132037776
+FROM r8.im/xinntao/gfpgan@sha256:6129309904ce4debfde78de5c209bce0022af40e197e132f08be8ccce3050393
 MAINTAINER bocai <320542616@qq.com>
