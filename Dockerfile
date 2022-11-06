@@ -1,2 +1,2 @@
-FROM r8.im/xinntao/gfpgan@sha256:6129309904ce4debfde78de5c209bce0022af40e197e132f08be8ccce3050393
+FROM r8.im/orpatashnik/styleclip@sha256:7af9a66f36f97fee2fece7dcc927551a951f0022cbdd23747b9212f23fc17021
 MAINTAINER bocai <320542616@qq.com>
