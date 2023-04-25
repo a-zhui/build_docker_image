@@ -1,2 +1,2 @@
-FROM r8.im/yuval-alaluf/sam@sha256:9222a21c181b707209ef12b5e0d7e94c994b58f01c7b2fec075d2e892362f13c
+FROM ghcr.io/arnidan/nsfw-api:latest
 MAINTAINER bocai <320542616@qq.com>
